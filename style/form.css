@@ -1,0 +1,178 @@
+
+.sale-area > form  {
+   padding:10px;
+   font-family: Arial, Helvetica, sans-serif;
+   margin:20px
+}
+.sale-area > form > select {
+    margin-top:10px;
+    margin-bottom:10px;
+    font-size: 14px;
+    width:20%;
+    padding:10px 14px;
+    border:1px solid rgba(87, 79, 79, 0.63);
+    color:rgb(61, 55, 55);
+}
+.sale-area > form > label{
+    font-size: 16px;
+}
+.sale-area > form > input {
+    font-size:16px;
+    padding:10px 14px;
+    width:50%;
+    margin-bottom: 15px;
+    border:none;
+    border-bottom: 1px solid rgb(43, 42, 42);
+}
+.sale-area > form > input:focus{
+    background-color: rgba(9, 47, 54, 0.158);
+    border:1px solid teal;
+    color:rgb(4, 18, 46);
+}
+.sale-area > form > input[type=checkbox]{
+    width:0;
+}
+.sale-area > form > textarea {
+    padding:10px 14px;
+    width:50%;
+    margin-bottom: 10px;
+    font-family: nepali;
+    font-size:20px;
+    border:1px solid grey;
+}
+.sale-area > form > button[type=submit]{
+    font-size:16px;
+    padding:10px 16px;
+    border:none;
+    background-color: rgb(11, 54, 54);
+    color:white;
+    cursor: pointer;
+    transition: .5s;
+}
+.sale-area > form > button[type=submit]:hover{
+    background-color:rgb(6, 77, 77);
+}
+
+
+/* login form */
+.login-form{
+    position: fixed;
+    padding:40px 10px;
+    width:100%;
+    height: auto;
+    display: none;
+    background-color: rgb(255, 255, 255);
+    z-index: 5;
+    overflow: hidden;
+    animation-name:openform;
+    -moz-animation-name: openform;
+    -o-animation-name: openform;
+    -webkit-animation-name: openform;
+    animation-iteration-count: 1;
+    animation-duration: 1s;
+    -moz-animation-duration: 1s;
+    -o-animation-duration: 1s;
+    -webkit-animation-duration: 1s;
+    
+} 
+/* @keyframes openform{
+    from{height: 0;}
+    to{height: 100%;}
+} */
+.login-form > form{
+    padding:10px 40px;
+    background-color: rgb(14, 85, 126);
+    width:40%;
+    position: relative;
+    top:10%;
+    left:30%;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 0px 60px 10px 40px;
+}
+
+.login-form > form > h2{
+    padding:10px;
+    margin:5px auto 20px auto;
+    text-align: center;
+
+}
+.login-form > form > span{
+    text-align: center;
+    padding:10px;
+}
+.login-form > form > a{
+    color:white;
+}
+.input-container {
+    display: -ms-flexbox; /* IE10 */
+    display: flex;
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .icon {
+    padding: 10px 5px;
+    background: rgb(255, 255, 255);
+    color: rgb(88, 84, 84);
+    min-width: 20px;
+    text-align: center;
+    border:1px solid rgba(255, 255, 255, 0.76);
+    border-right:none;
+  }
+  
+  .input-field {
+    width: 100%;
+    padding: 10px;
+    outline: none;
+    border:1px solid rgba(255, 255, 255, 0.685);
+    border-left: none;
+
+  }
+  
+ 
+  /* Set a style for the submit button */
+  .btn {
+    background-color: dodgerblue;
+    color: white;
+    padding: 15px 20px;
+    border: none;
+    cursor: pointer;
+    width: 70%;
+    opacity: 0.9;
+  }
+  
+  .btn:hover {
+    opacity: 1;
+  }
+
+  /* reset password style */
+  .forgot > a{
+        text-decoration: none;
+        font-size:25px;
+  }
+
+  .reset-field{
+      padding:6px 14px;
+      font-size:16px;
+      color:grey;
+      width:60%;
+      margin-left:10%;
+      border:none;
+      border-radius: 5px;
+  }
+  .reset-btn{
+      padding:10px 16px;
+      margin-left: 20%;
+      margin-top: 10px;
+      background-color:dodgerblue;
+      border:none;
+      cursor:pointer;
+      width:40%;
+      color:white;
+
+  }
+  .reset-btn:hover{
+      border-radius: 10px;
+      background-color:rgb(5, 46, 87);
+  }

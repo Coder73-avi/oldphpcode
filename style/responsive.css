@@ -1,0 +1,171 @@
+.exit {
+
+    color:rgb(0, 0, 0);
+
+    font-size: 24px;
+
+    text-decoration: none;
+
+    /* margin: 10px; */
+
+    padding:10px;
+
+    float: right;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+
+  .exit:hover{
+
+    color:red;
+
+  }
+
+.overview-info{
+    display: block;
+}
+
+  
+
+@media only screen and (max-width: 1024px){
+
+    .property-details {width: 31%;}
+    .right-head{
+        width:30%;
+    }
+    .recent-box {
+        width:100%;
+    }
+    .recent-box > img{
+        max-width: 90%;
+        margin:auto;
+        height: 130px;
+    }
+    .post-box{
+        width:35%;
+        margin:10px;
+    }
+    
+}
+
+@media only screen and (max-width: 768px){
+
+    .property-details {width: 45%;}
+
+    .sale-area > form > input {width:90%;}
+
+    .sale-area > form > select {width:70%;}
+
+    .sale-area > form > textarea {width:90%;}
+    .land-head{
+        height: 150px;
+    }
+    .login-form{
+
+        position: absolute;
+
+    }
+
+    .login-form > form {
+
+        width:80%;    
+
+        top:0;
+
+        left:0;
+
+    }
+
+    .right-head{
+        width: 100%;
+        text-align: center;
+    }
+    .company-info{
+        text-align: center;
+
+    }
+    .head{
+        width:85%;
+    }
+    .img{
+        width:15%;
+    }
+
+  .column > img{height: 100px;}
+  .other-img > img{
+      height: 120px;
+  }
+  .owner-contact > img{
+      margin-left: 30px;
+  }
+
+.video-list > iframe{
+	width:50%;
+	height: auto;
+}
+}
+
+
+
+
+@media screen and (max-width: 600px) {
+    .navigation > nav > ul li{
+        width:100%;
+    }
+    .footer-3 > a{
+        font-size: 25px;
+    }
+    .post-box{
+        width:50%;
+    }
+   .viewers{
+       font-size:14px;
+   }
+   .video-list > iframe{
+   	width:99%;
+   	height: auto;
+   }
+}
+
+@media only screen and (max-width: 520px){
+     /* [class*='cols-']{
+            width:100%;
+        } */
+        .img{
+            width:20%;
+        }
+        .head{
+            width:80%;
+        }
+        .name{
+            font-size:27px;
+        }
+        .img > img{
+            width:50px;
+            height:50px ;
+        }
+        .other-img{
+            width:85%;
+        }
+        .other-img > img{
+            height: 90px;
+        }
+    .property-details {width: 95%;}
+    .galleryContainer{
+        height: 200px;
+    }
+
+    .footer-3{text-align: center;}
+    .column{
+        width:20%;
+    }
+      .column > img{
+          height: 70px;
+        }
+
+        .post-box {
+            width:100%;
+        }
+   
+}

@@ -1,0 +1,69 @@
+/* footer area */
+.footer{
+
+    /* height: 400px; */
+    background-color: rgb(2, 45, 73);
+    color:white;
+    /* padding: 20px; */
+}
+.sub-footer{
+    padding:10px;
+    background-color: rgb(2, 31, 43);
+    text-align: center;
+}
+.sub-footer > p > a{
+    font-size:10px;
+    color:white;
+    text-decoration: none;
+}
+
+.footer > div > div > .name{
+    color:white;
+    text-align: center;
+    color:white;
+    padding:10px;
+    padding-top:90px;
+}
+.footer > div > div > h3, .footer > div > div > p{
+    text-align: center;
+
+}
+
+.footer > div > ul li {
+    padding:10px;
+}
+.footer > div > ul li a{
+    color:white;
+    text-decoration: none;
+    padding:10px;
+}
+.footer > div > ul li a:hover{
+    color:green;
+}
+.footer > div > ul > li > ul{
+    transition: .5s;
+    transform: scale(0);
+    display: none;
+}
+.footer > div > ul > li > ul > li{
+    list-style: none;
+}
+
+.footer > div > ul li:hover > ul{
+    transform: scale(1);
+    display: block;
+}
+.footer-3 > a{
+    text-decoration: none;
+    color: white;
+    font-size:30px;
+    font-weight: bolder;
+}
+.footer-3 > ul{
+    list-style: none;
+    cursor: pointer;
+    }
+.footer-3 > ul > li{
+    padding:10px auto;
+    line-height: 1.5;
+}

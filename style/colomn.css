@@ -1,0 +1,30 @@
+/*colunm divided */
+.row:after{
+    content: "";
+    display: block;
+    clear: both;
+}
+[class*='cols-']{
+    padding:0px;
+    float: left;
+}
+.cols-1 {width: 8%;}
+.cols-2 {width: 16%;}
+.cols-3 {width: 24%;}
+.cols-4 {width: 33%;}
+.cols-5 {width: 40%;}
+.cols-6 {width: 48%;}
+.cols-7 {width: 56%;}
+.cols-8 {width: 64%;}
+.cols-9 {width: 73%;}
+.cols-10 {width: 81%;}
+.cols-11 {width: 89%;}
+.cols-12 {width: 100%;}
+/*end column divided*/
+
+@media only screen and (max-width: 900px){
+    [class*='cols-']{width: 100%;}
+}
+.clear{
+    clear: both;
+}

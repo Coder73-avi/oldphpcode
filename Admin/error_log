@@ -1,0 +1,568 @@
+[01-Aug-2020 09:14:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/samalgro/public_html/Admin/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/samalgro/public_html/Admin/index.php on line 4
+[01-Aug-2020 09:18:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/samalgro/public_html/Admin/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/samalgro/public_html/Admin/index.php on line 4
+[01-Aug-2020 09:19:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/samalgro/public_html/Admin/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/samalgro/public_html/Admin/index.php on line 4
+[01-Aug-2020 09:20:09 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/samalgro/public_html/Admin/include/Session.php on line 8
+[01-Aug-2020 09:20:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/samalgro/public_html/Admin/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/samalgro/public_html/Admin/index.php on line 6
+[01-Aug-2020 09:21:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/samalgro/public_html/Admin/include/Session.php on line 8
+[01-Aug-2020 09:21:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samalgro/public_html/Admin/index.php:2) in /home/samalgro/public_html/Admin/index.php on line 60
+[01-Aug-2020 09:21:07 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/samalgro/public_html/Admin/include/Session.php on line 8
+[01-Aug-2020 09:21:07 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/samalgro/public_html/Admin/include/Session.php on line 20
+[01-Aug-2020 09:21:07 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/samalgro/public_html/Admin/include/Session.php on line 27
+[01-Aug-2020 09:21:07 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/samalgro/public_html/Admin/include/Session.php on line 34
+[01-Aug-2020 09:22:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/samalgro/public_html/Admin/include/Session.php on line 8
+[01-Aug-2020 09:22:00 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/samalgro/public_html/Admin/include/Session.php on line 20
+[01-Aug-2020 09:22:00 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/samalgro/public_html/Admin/include/Session.php on line 27
+[01-Aug-2020 09:22:00 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/samalgro/public_html/Admin/include/Session.php on line 34
+[01-Aug-2020 09:23:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samalgro/public_html/Admin/index.php:10) in /home/samalgro/public_html/Admin/index.php on line 59
+[01-Aug-2020 09:23:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samalgro/public_html/Admin/index.php:10) in /home/samalgro/public_html/Admin/index.php on line 59
+[01-Aug-2020 09:23:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samalgro/public_html/Admin/index.php:10) in /home/samalgro/public_html/Admin/index.php on line 59
+[01-Aug-2020 09:24:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samalgro/public_html/Admin/index.php:10) in /home/samalgro/public_html/Admin/index.php on line 59
+[01-Aug-2020 09:24:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samalgro/public_html/Admin/index.php:10) in /home/samalgro/public_html/Admin/index.php on line 59
+[01-Aug-2020 09:24:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samalgro/public_html/Admin/index.php:10) in /home/samalgro/public_html/Admin/index.php on line 59
+[01-Aug-2020 09:28:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samalgro/public_html/Admin/index.php:10) in /home/samalgro/public_html/Admin/index.php on line 59
+[01-Aug-2020 09:29:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samalgro/public_html/Admin/index.php:10) in /home/samalgro/public_html/Admin/index.php on line 59
+[01-Aug-2020 09:29:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samalgro/public_html/Admin/index.php:10) in /home/samalgro/public_html/Admin/index.php on line 59
+[01-Aug-2020 09:30:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samalgro/public_html/Admin/index.php:10) in /home/samalgro/public_html/Admin/index.php on line 59
+[01-Aug-2020 09:31:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samalgro/public_html/Admin/index.php:10) in /home/samalgro/public_html/Admin/index.php on line 59
+[01-Aug-2020 10:41:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samalgro/public_html/Admin/index.php:10) in /home/samalgro/public_html/Admin/index.php on line 59
+[01-Aug-2020 11:27:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samalgro/public_html/Admin/index.php:10) in /home/samalgro/public_html/Admin/index.php on line 59
+[01-Aug-2020 11:27:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samalgro/public_html/Admin/index.php:10) in /home/samalgro/public_html/Admin/index.php on line 59
+[01-Aug-2020 11:27:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samalgro/public_html/Admin/index.php:10) in /home/samalgro/public_html/Admin/index.php on line 59
+[01-Aug-2020 11:27:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samalgro/public_html/Admin/index.php:10) in /home/samalgro/public_html/Admin/index.php on line 59
+[01-Aug-2020 11:28:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samalgro/public_html/Admin/index.php:10) in /home/samalgro/public_html/Admin/index.php on line 59
+[01-Aug-2020 11:28:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samalgro/public_html/Admin/index.php:10) in /home/samalgro/public_html/Admin/index.php on line 59
+[01-Aug-2020 11:28:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samalgro/public_html/Admin/index.php:10) in /home/samalgro/public_html/Admin/index.php on line 59
+[01-Aug-2020 11:29:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samalgro/public_html/Admin/index.php:10) in /home/samalgro/public_html/Admin/index.php on line 59
+[01-Aug-2020 11:30:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samalgro/public_html/Admin/index.php:10) in /home/samalgro/public_html/Admin/index.php on line 59
+[01-Aug-2020 11:36:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samalgro/public_html/Admin/index.php:10) in /home/samalgro/public_html/Admin/index.php on line 59
+[01-Aug-2020 11:39:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samalgro/public_html/Admin/index.php:10) in /home/samalgro/public_html/Admin/index.php on line 59
+[01-Aug-2020 15:41:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samalgro/public_html/Admin/index.php:10) in /home/samalgro/public_html/Admin/index.php on line 59
+[02-Aug-2020 00:32:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samalgro/public_html/Admin/index.php:10) in /home/samalgro/public_html/Admin/index.php on line 59
+[02-Aug-2020 00:36:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samalgro/public_html/Admin/index.php:10) in /home/samalgro/public_html/Admin/index.php on line 59
+[02-Aug-2020 00:44:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samalgro/public_html/Admin/index.php:10) in /home/samalgro/public_html/Admin/index.php on line 59
+[02-Aug-2020 09:43:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samalgro/public_html/Admin/index.php:10) in /home/samalgro/public_html/Admin/index.php on line 59
+[02-Aug-2020 11:03:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samalgro/public_html/Admin/index.php:10) in /home/samalgro/public_html/Admin/index.php on line 59
+[03-Aug-2020 00:55:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samalgro/public_html/Admin/index.php:10) in /home/samalgro/public_html/Admin/index.php on line 59
+[03-Aug-2020 20:40:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samalgro/public_html/Admin/index.php:10) in /home/samalgro/public_html/Admin/index.php on line 59
+[04-Aug-2020 05:42:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samalgro/public_html/Admin/index.php:10) in /home/samalgro/public_html/Admin/index.php on line 59
+[04-Aug-2020 14:14:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samalgro/public_html/Admin/index.php:10) in /home/samalgro/public_html/Admin/index.php on line 59
+[04-Aug-2020 14:15:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samalgro/public_html/Admin/index.php:10) in /home/samalgro/public_html/Admin/index.php on line 59
+[05-Aug-2020 02:19:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samalgro/public_html/Admin/index.php:10) in /home/samalgro/public_html/Admin/index.php on line 59
+[05-Aug-2020 02:43:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samalgro/public_html/Admin/index.php:10) in /home/samalgro/public_html/Admin/index.php on line 59
+[05-Aug-2020 19:39:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samalgro/public_html/Admin/index.php:10) in /home/samalgro/public_html/Admin/index.php on line 59
+[07-Aug-2020 06:35:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samalgro/public_html/Admin/index.php:10) in /home/samalgro/public_html/Admin/index.php on line 59
+[08-Aug-2020 05:04:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samalgro/public_html/Admin/index.php:18) in /home/samalgro/public_html/Admin/functions/function.php on line 21
+[08-Aug-2020 05:06:06 UTC] PHP Parse error:  syntax error, unexpected 'Session' (T_STRING) in /home/samalgro/public_html/Admin/index.php on line 8
+[08-Aug-2020 05:06:09 UTC] PHP Parse error:  syntax error, unexpected 'Session' (T_STRING) in /home/samalgro/public_html/Admin/index.php on line 8
+[08-Aug-2020 05:06:13 UTC] PHP Parse error:  syntax error, unexpected 'Session' (T_STRING) in /home/samalgro/public_html/Admin/index.php on line 8
+[08-Aug-2020 05:10:18 UTC] PHP Parse error:  syntax error, unexpected 'Session' (T_STRING) in /home/samalgro/public_html/Admin/index.php on line 8
+[08-Aug-2020 05:10:24 UTC] PHP Parse error:  syntax error, unexpected 'Session' (T_STRING) in /home/samalgro/public_html/Admin/index.php on line 8
+[08-Aug-2020 05:10:33 UTC] PHP Parse error:  syntax error, unexpected 'Session' (T_STRING) in /home/samalgro/public_html/Admin/index.php on line 8
+[08-Aug-2020 05:11:25 UTC] PHP Parse error:  syntax error, unexpected 'Session' (T_STRING) in /home/samalgro/public_html/Admin/index.php on line 8
+[08-Aug-2020 05:11:28 UTC] PHP Parse error:  syntax error, unexpected 'Session' (T_STRING) in /home/samalgro/public_html/Admin/index.php on line 8
+[08-Aug-2020 05:11:58 UTC] PHP Parse error:  syntax error, unexpected 'Session' (T_STRING) in /home/samalgro/public_html/Admin/index.php on line 8
+[08-Aug-2020 05:11:59 UTC] PHP Parse error:  syntax error, unexpected 'Session' (T_STRING) in /home/samalgro/public_html/Admin/index.php on line 8
+[08-Aug-2020 05:12:01 UTC] PHP Parse error:  syntax error, unexpected 'Session' (T_STRING) in /home/samalgro/public_html/Admin/index.php on line 8
+[08-Aug-2020 05:24:33 UTC] PHP Parse error:  syntax error, unexpected 'Session' (T_STRING) in /home/samalgro/public_html/Admin/index.php on line 8
+[08-Aug-2020 05:25:02 UTC] PHP Parse error:  syntax error, unexpected 'Session' (T_STRING) in /home/samalgro/public_html/Admin/index.php on line 8
+[08-Aug-2020 05:25:53 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/samalgro/public_html/Admin/login_request.php on line 6
+[08-Aug-2020 06:04:46 UTC] PHP Parse error:  syntax error, unexpected 'Session' (T_STRING) in /home/samalgro/public_html/Admin/index.php on line 8
+[08-Aug-2020 06:05:31 UTC] PHP Parse error:  syntax error, unexpected 'Session' (T_STRING) in /home/samalgro/public_html/Admin/index.php on line 8
+[08-Aug-2020 06:06:13 UTC] PHP Parse error:  syntax error, unexpected 'Session' (T_STRING) in /home/samalgro/public_html/Admin/index.php on line 8
+[08-Aug-2020 06:06:40 UTC] PHP Parse error:  syntax error, unexpected '$db' (T_VARIABLE) in /home/samalgro/public_html/Admin/index.php on line 10
+[08-Aug-2020 06:07:06 UTC] PHP Parse error:  syntax error, unexpected '$db' (T_VARIABLE) in /home/samalgro/public_html/Admin/index.php on line 10
+[08-Aug-2020 06:07:21 UTC] PHP Parse error:  syntax error, unexpected '$db' (T_VARIABLE) in /home/samalgro/public_html/Admin/index.php on line 10
+[08-Aug-2020 06:08:31 UTC] PHP Parse error:  syntax error, unexpected '$db' (T_VARIABLE) in /home/samalgro/public_html/Admin/index.php on line 10
+[08-Aug-2020 06:08:49 UTC] PHP Parse error:  syntax error, unexpected '$db' (T_VARIABLE) in /home/samalgro/public_html/Admin/index.php on line 10
+[08-Aug-2020 06:10:45 UTC] PHP Parse error:  syntax error, unexpected 'l' (T_STRING) in /home/samalgro/public_html/Admin/functions/function.php on line 25
+[08-Aug-2020 06:10:58 UTC] PHP Parse error:  syntax error, unexpected 'l' (T_STRING) in /home/samalgro/public_html/Admin/functions/function.php on line 25
+[08-Aug-2020 06:11:01 UTC] PHP Parse error:  syntax error, unexpected 'l' (T_STRING) in /home/samalgro/public_html/Admin/functions/function.php on line 25
+[08-Aug-2020 06:11:36 UTC] PHP Parse error:  syntax error, unexpected 'l' (T_STRING) in /home/samalgro/public_html/Admin/functions/function.php on line 25
+[08-Aug-2020 06:11:55 UTC] PHP Parse error:  syntax error, unexpected 'l' (T_STRING) in /home/samalgro/public_html/Admin/functions/function.php on line 25
+[08-Aug-2020 06:13:09 UTC] PHP Parse error:  syntax error, unexpected 'l' (T_STRING) in /home/samalgro/public_html/Admin/functions/function.php on line 25
+[08-Aug-2020 06:13:10 UTC] PHP Parse error:  syntax error, unexpected 'l' (T_STRING) in /home/samalgro/public_html/Admin/functions/function.php on line 25
+[08-Aug-2020 06:13:24 UTC] PHP Parse error:  syntax error, unexpected 'l' (T_STRING) in /home/samalgro/public_html/Admin/functions/function.php on line 25
+[08-Aug-2020 06:13:53 UTC] PHP Parse error:  syntax error, unexpected 'l' (T_STRING) in /home/samalgro/public_html/Admin/functions/function.php on line 25
+[08-Aug-2020 06:13:58 UTC] PHP Parse error:  syntax error, unexpected 'l' (T_STRING) in /home/samalgro/public_html/Admin/functions/function.php on line 25
+[08-Aug-2020 06:20:45 UTC] PHP Parse error:  syntax error, unexpected 'l' (T_STRING) in /home/samalgro/public_html/Admin/functions/function.php on line 25
+[08-Aug-2020 06:21:00 UTC] PHP Parse error:  syntax error, unexpected '"ehllo"' (T_CONSTANT_ENCAPSED_STRING) in /home/samalgro/public_html/Admin/include/initialization.php on line 5
+[08-Aug-2020 06:21:02 UTC] PHP Parse error:  syntax error, unexpected '"ehllo"' (T_CONSTANT_ENCAPSED_STRING) in /home/samalgro/public_html/Admin/include/initialization.php on line 5
+[08-Aug-2020 06:21:58 UTC] PHP Parse error:  syntax error, unexpected 'l' (T_STRING) in /home/samalgro/public_html/Admin/functions/function.php on line 25
+[08-Aug-2020 06:23:14 UTC] PHP Parse error:  syntax error, unexpected 'l' (T_STRING) in /home/samalgro/public_html/Admin/functions/function.php on line 25
+[08-Aug-2020 06:23:49 UTC] PHP Parse error:  syntax error, unexpected 'l' (T_STRING) in /home/samalgro/public_html/Admin/functions/function.php on line 25
+[08-Aug-2020 06:23:56 UTC] PHP Parse error:  syntax error, unexpected 'l' (T_STRING) in /home/samalgro/public_html/Admin/functions/function.php on line 25
+[08-Aug-2020 06:24:21 UTC] PHP Parse error:  syntax error, unexpected 'l' (T_STRING) in /home/samalgro/public_html/Admin/functions/function.php on line 25
+[08-Aug-2020 06:24:49 UTC] PHP Parse error:  syntax error, unexpected 'l' (T_STRING) in /home/samalgro/public_html/Admin/functions/function.php on line 25
+[08-Aug-2020 06:24:51 UTC] PHP Parse error:  syntax error, unexpected 'l' (T_STRING) in /home/samalgro/public_html/Admin/functions/function.php on line 25
+[08-Aug-2020 06:26:40 UTC] PHP Parse error:  syntax error, unexpected 'l' (T_STRING) in /home/samalgro/public_html/Admin/functions/function.php on line 25
+[08-Aug-2020 06:27:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/samalgro/public_html/Admin/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/samalgro/public_html/Admin/index.php on line 5
+[08-Aug-2020 06:27:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/index.php:118
+Stack trace:
+#0 {main}
+  thrown in /home/samalgro/public_html/Admin/index.php on line 118
+[08-Aug-2020 06:29:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/index.php:118
+Stack trace:
+#0 {main}
+  thrown in /home/samalgro/public_html/Admin/index.php on line 118
+[08-Aug-2020 06:29:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/index.php:118
+Stack trace:
+#0 {main}
+  thrown in /home/samalgro/public_html/Admin/index.php on line 118
+[08-Aug-2020 06:29:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/index.php:118
+Stack trace:
+#0 {main}
+  thrown in /home/samalgro/public_html/Admin/index.php on line 118
+[08-Aug-2020 06:30:26 UTC] PHP Parse error:  syntax error, unexpected 'Session' (T_STRING) in /home/samalgro/public_html/Admin/index.php on line 10
+[08-Aug-2020 06:38:28 UTC] PHP Parse error:  syntax error, unexpected 'Session' (T_STRING) in /home/samalgro/public_html/Admin/index.php on line 10
+[08-Aug-2020 06:39:05 UTC] PHP Parse error:  syntax error, unexpected 'l' (T_STRING) in /home/samalgro/public_html/Admin/functions/function.php on line 25
+[08-Aug-2020 06:41:42 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 80
+[08-Aug-2020 06:41:42 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 82
+[08-Aug-2020 06:41:42 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 84
+[08-Aug-2020 06:41:42 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 86
+[08-Aug-2020 06:41:42 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 88
+[08-Aug-2020 06:41:42 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 90
+[08-Aug-2020 06:43:37 UTC] PHP Notice:  Undefined variable: User_info in /home/samalgro/public_html/Admin/index.php on line 42
+[08-Aug-2020 06:43:37 UTC] PHP Notice:  Trying to get property 'logo' of non-object in /home/samalgro/public_html/Admin/index.php on line 42
+[08-Aug-2020 06:43:47 UTC] PHP Notice:  Undefined variable: User_info in /home/samalgro/public_html/Admin/index.php on line 42
+[08-Aug-2020 06:43:47 UTC] PHP Notice:  Trying to get property 'logo' of non-object in /home/samalgro/public_html/Admin/index.php on line 42
+[08-Aug-2020 06:43:58 UTC] PHP Notice:  Undefined variable: User_info in /home/samalgro/public_html/Admin/index.php on line 42
+[08-Aug-2020 06:43:58 UTC] PHP Notice:  Trying to get property 'logo' of non-object in /home/samalgro/public_html/Admin/index.php on line 42
+[08-Aug-2020 06:44:40 UTC] PHP Notice:  Undefined variable: User_info in /home/samalgro/public_html/Admin/index.php on line 42
+[08-Aug-2020 06:44:40 UTC] PHP Notice:  Trying to get property 'logo' of non-object in /home/samalgro/public_html/Admin/index.php on line 42
+[08-Aug-2020 06:45:46 UTC] PHP Notice:  Undefined variable: User_info in /home/samalgro/public_html/Admin/index.php on line 42
+[08-Aug-2020 06:45:46 UTC] PHP Notice:  Trying to get property 'logo' of non-object in /home/samalgro/public_html/Admin/index.php on line 42
+[08-Aug-2020 06:45:46 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 81
+[08-Aug-2020 06:45:46 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 83
+[08-Aug-2020 06:45:46 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 85
+[08-Aug-2020 06:45:46 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 87
+[08-Aug-2020 06:45:46 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 89
+[08-Aug-2020 06:45:46 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 91
+[08-Aug-2020 06:45:46 UTC] PHP Notice:  Undefined variable: User_info in /home/samalgro/public_html/Admin/index.php on line 42
+[08-Aug-2020 06:45:46 UTC] PHP Notice:  Trying to get property 'logo' of non-object in /home/samalgro/public_html/Admin/index.php on line 42
+[11-Aug-2020 05:58:21 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 81
+[11-Aug-2020 05:58:21 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 83
+[11-Aug-2020 05:58:21 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 85
+[11-Aug-2020 05:58:21 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 87
+[11-Aug-2020 05:58:21 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 89
+[11-Aug-2020 05:58:21 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 91
+[11-Aug-2020 07:24:33 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 81
+[11-Aug-2020 07:24:33 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 83
+[11-Aug-2020 07:24:33 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 85
+[11-Aug-2020 07:24:33 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 87
+[11-Aug-2020 07:24:33 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 89
+[11-Aug-2020 07:24:33 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 91
+[12-Aug-2020 07:29:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/samalgro/public_html/Admin/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/samalgro/public_html/Admin/index.php on line 8
+[12-Aug-2020 07:29:52 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 81
+[12-Aug-2020 07:29:52 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 83
+[12-Aug-2020 07:29:52 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 85
+[12-Aug-2020 07:29:52 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 87
+[12-Aug-2020 07:29:52 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 89
+[12-Aug-2020 07:29:52 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 91
+[12-Aug-2020 11:15:41 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 81
+[12-Aug-2020 11:15:41 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 83
+[12-Aug-2020 11:15:41 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 85
+[12-Aug-2020 11:15:41 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 87
+[12-Aug-2020 11:15:41 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 89
+[12-Aug-2020 11:15:41 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 91
+[15-Aug-2020 05:35:11 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 81
+[15-Aug-2020 05:35:11 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 83
+[15-Aug-2020 05:35:11 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 85
+[15-Aug-2020 05:35:11 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 87
+[15-Aug-2020 05:35:11 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 89
+[15-Aug-2020 05:35:11 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 91
+[15-Aug-2020 06:14:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/samalgro/public_html/Admin/delete.php on line 1
+[15-Aug-2020 06:16:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/samalgro/public_html/Admin/delete.php on line 1
+[15-Aug-2020 06:16:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/samalgro/public_html/Admin/delete.php on line 1
+[15-Aug-2020 06:18:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/samalgro/public_html/Admin/delete.php on line 1
+[15-Aug-2020 06:19:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/samalgro/public_html/Admin/delete.php on line 1
+[15-Aug-2020 06:20:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/samalgro/public_html/Admin/delete.php on line 1
+[15-Aug-2020 06:20:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/samalgro/public_html/Admin/delete.php on line 1
+[15-Aug-2020 06:21:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/samalgro/public_html/Admin/delete.php on line 1
+[15-Aug-2020 06:24:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/samalgro/public_html/Admin/post-new.php on line 1
+[15-Aug-2020 06:25:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/samalgro/public_html/Admin/delete.php on line 1
+[15-Aug-2020 06:25:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/samalgro/public_html/Admin/post-new.php on line 1
+[15-Aug-2020 06:26:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/samalgro/public_html/Admin/post-new.php on line 1
+[15-Aug-2020 06:27:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/samalgro/public_html/Admin/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/samalgro/public_html/Admin/index.php on line 6
+[15-Aug-2020 06:27:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/samalgro/public_html/Admin/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/samalgro/public_html/Admin/index.php on line 6
+[15-Aug-2020 06:28:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/samalgro/public_html/Admin/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/samalgro/public_html/Admin/index.php on line 6
+[15-Aug-2020 06:29:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/samalgro/public_html/Admin/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/samalgro/public_html/Admin/index.php on line 6
+[15-Aug-2020 06:29:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/samalgro/public_html/Admin/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/samalgro/public_html/Admin/index.php on line 6
+[15-Aug-2020 06:31:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/samalgro/public_html/Admin/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/samalgro/public_html/Admin/index.php on line 6
+[15-Aug-2020 06:32:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/samalgro/public_html/Admin/delete.php on line 49
+[15-Aug-2020 06:32:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/samalgro/public_html/Admin/delete.php on line 48
+[15-Aug-2020 06:33:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/samalgro/public_html/Admin/post-new.php on line 1
+[15-Aug-2020 07:38:44 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 81
+[15-Aug-2020 07:38:44 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 83
+[15-Aug-2020 07:38:44 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 85
+[15-Aug-2020 07:38:44 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 87
+[15-Aug-2020 07:38:44 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 89
+[15-Aug-2020 07:38:44 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 91
+[02-Sep-2020 07:37:52 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 81
+[02-Sep-2020 07:37:52 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 83
+[02-Sep-2020 07:37:52 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 85
+[02-Sep-2020 07:37:52 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 87
+[02-Sep-2020 07:37:52 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 89
+[02-Sep-2020 07:37:52 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 91
+[02-Sep-2020 09:59:06 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 81
+[02-Sep-2020 09:59:06 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 83
+[02-Sep-2020 09:59:06 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 85
+[02-Sep-2020 09:59:06 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 87
+[02-Sep-2020 09:59:06 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 89
+[02-Sep-2020 09:59:06 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 91
+[04-Sep-2020 19:36:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[04-Sep-2020 19:36:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[05-Sep-2020 15:12:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/samalgro/public_html/Admin/login_request.php:4
+Stack trace:
+#0 /home/samalgro/public_html/Admin/user.php(33): require_once()
+#1 {main}
+  thrown in /home/samalgro/public_html/Admin/login_request.php on line 4
+[11-Sep-2020 04:53:56 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 81
+[11-Sep-2020 04:53:56 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 83
+[11-Sep-2020 04:53:56 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 85
+[11-Sep-2020 04:53:56 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 87
+[11-Sep-2020 04:53:56 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 89
+[11-Sep-2020 04:53:56 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 91
+[11-Sep-2020 04:54:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'samalgro_samal_real_estate.video_link' doesn't exist in /home/samalgro/public_html/Admin/include/Database.php:104
+Stack trace:
+#0 /home/samalgro/public_html/Admin/include/Database.php(104): PDOStatement->execute(Array)
+#1 /home/samalgro/public_html/Admin/post-new.php(331): Database->db_select('video_link', '*', 'Post_id=?', Array)
+#2 /home/samalgro/public_html/Admin/index.php(114): require_once('/home/samalgro/...')
+#3 {main}
+  thrown in /home/samalgro/public_html/Admin/include/Database.php on line 104
+[11-Sep-2020 05:03:20 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 81
+[11-Sep-2020 05:03:20 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 83
+[11-Sep-2020 05:03:20 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 85
+[11-Sep-2020 05:03:20 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 87
+[11-Sep-2020 05:03:20 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 89
+[11-Sep-2020 05:03:20 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 91
+[11-Sep-2020 05:03:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/samalgro/public_html/Admin/unlink.php on line 1
+[11-Sep-2020 05:05:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/samalgro/public_html/Admin/unlink.php on line 1
+[11-Sep-2020 05:06:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/samalgro/public_html/Admin/unlink.php on line 1
+[11-Sep-2020 05:06:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/samalgro/public_html/Admin/unlink.php on line 1
+[11-Sep-2020 05:08:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/samalgro/public_html/Admin/unlink.php on line 1
+[11-Sep-2020 05:10:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/samalgro/public_html/Admin/unlink.php on line 1
+[11-Sep-2020 05:10:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/samalgro/public_html/Admin/unlink.php on line 1
+[11-Sep-2020 08:58:43 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 81
+[11-Sep-2020 08:58:43 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 83
+[11-Sep-2020 08:58:43 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 85
+[11-Sep-2020 08:58:43 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 87
+[11-Sep-2020 08:58:43 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 89
+[11-Sep-2020 08:58:43 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 91
+[11-Sep-2020 09:00:32 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 81
+[11-Sep-2020 09:00:32 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 83
+[11-Sep-2020 09:00:32 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 85
+[11-Sep-2020 09:00:32 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 87
+[11-Sep-2020 09:00:32 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 89
+[11-Sep-2020 09:00:32 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 91
+[11-Sep-2020 09:02:36 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 81
+[11-Sep-2020 09:02:36 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 83
+[11-Sep-2020 09:02:36 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 85
+[11-Sep-2020 09:02:36 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 87
+[11-Sep-2020 09:02:36 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 89
+[11-Sep-2020 09:02:36 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 91
+[11-Sep-2020 09:05:57 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 81
+[11-Sep-2020 09:05:57 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 83
+[11-Sep-2020 09:05:57 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 85
+[11-Sep-2020 09:05:57 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 87
+[11-Sep-2020 09:05:57 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 89
+[11-Sep-2020 09:05:57 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 91
+[13-Sep-2020 07:27:02 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 81
+[13-Sep-2020 07:27:02 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 83
+[13-Sep-2020 07:27:02 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 85
+[13-Sep-2020 07:27:02 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 87
+[13-Sep-2020 07:27:02 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 89
+[13-Sep-2020 07:27:02 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 91
+[22-Sep-2020 05:41:47 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 81
+[22-Sep-2020 05:41:47 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 83
+[22-Sep-2020 05:41:47 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 85
+[22-Sep-2020 05:41:47 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 87
+[22-Sep-2020 05:41:47 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 89
+[22-Sep-2020 05:41:47 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 91
+[22-Sep-2020 06:49:22 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 81
+[22-Sep-2020 06:49:22 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 83
+[22-Sep-2020 06:49:22 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 85
+[22-Sep-2020 06:49:22 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 87
+[22-Sep-2020 06:49:22 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 89
+[22-Sep-2020 06:49:22 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 91
+[22-Sep-2020 07:01:31 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 81
+[22-Sep-2020 07:01:31 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 83
+[22-Sep-2020 07:01:31 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 85
+[22-Sep-2020 07:01:31 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 87
+[22-Sep-2020 07:01:31 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 89
+[22-Sep-2020 07:01:31 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 91
+[22-Sep-2020 07:10:22 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 81
+[22-Sep-2020 07:10:22 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 83
+[22-Sep-2020 07:10:22 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 85
+[22-Sep-2020 07:10:22 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 87
+[22-Sep-2020 07:10:22 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 89
+[22-Sep-2020 07:10:22 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 91
+[22-Sep-2020 07:15:10 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 81
+[22-Sep-2020 07:15:10 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 83
+[22-Sep-2020 07:15:10 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 85
+[22-Sep-2020 07:15:10 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 87
+[22-Sep-2020 07:15:10 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 89
+[22-Sep-2020 07:15:10 UTC] PHP Notice:  Undefined index: file in /home/samalgro/public_html/Admin/index.php on line 91

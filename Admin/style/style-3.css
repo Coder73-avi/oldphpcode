@@ -1,0 +1,243 @@
+/* mail */
+.mail-table {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .mail-table td, .mail-table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .mail-table tr:nth-child(even){background-color: #f2f2f2;}
+  
+  .mail-table tr:hover {background-color: #ddd;}
+  
+  .mail-table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #041b31;
+    color: white;
+  }
+
+/* show mail div */
+.exit {
+  color:rgb(255, 255, 255);
+  font-size: 24px;
+  text-decoration: none;
+  /* margin: 10px; */
+  padding:10px;
+  float: right;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.exit:hover{
+  color:red;
+}
+.mail-show-div{
+  top:10px;
+  left:5%;
+  position: absolute;
+  width:90%;
+  /* height: 100%; */
+  background-color:rgb(5, 53, 41);
+  overflow: hidden;
+  z-index: 5;
+}
+.mail-show-div > div {
+  /* border:1px solid grey; */
+  margin:5px;
+
+}
+.mail-show-div > div > .contener {
+  border:1px solid grey;
+}
+.mail-show-div > div > .contener{
+  padding:10px;
+}
+
+.mail-show-div > div > div{
+  padding:18px 20px;
+  border:1px solid rgba(128, 128, 128, 0.664);
+  margin:10px;
+  color:rgb(255, 255, 255);
+}
+.mail-show-div > div > div > h2{
+  padding: 2px 0px;
+  color:rgb(255, 255, 255);
+}
+.over-view-info {
+  width:100%;
+}
+/* other image size  */
+.other-img {
+  width:92.5%;
+}
+.other-img > img {
+  width: 31.5%;
+  padding:5px;
+  height: 100px;
+  opacity: .8;
+}
+.other-img > img:hover{
+  opacity: 1;
+  cursor: pointer;
+}
+
+.over-view-info tr > td{
+  padding:7px ;
+}
+/* show sigle comment */
+.comment-box {
+  position: absolute;
+  height: 80%;
+  width: 80%;
+  top:10%;
+  left: 10%;
+  background-color: rgba(0, 0, 255, 0.356);
+  padding:10px;
+  z-index: 5;
+}
+.comment-box  > table{
+  position: relative;
+  left:15%;
+  top:12%;
+  background-color: rgb(255, 255, 255);
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  padding: 20px 50px;
+  border-radius: 0px 100px 0px 100px;
+  width:70%;
+  color:rgb(47, 47, 51);
+}
+.comment-box > table tr > td{
+  padding:5px;
+}
+.message-box{
+  border-top:1px solid grey;
+  border-left:1px solid grey;
+  border-right:1px solid grey;
+  /* padding:30px; */
+  font-size: 18px;
+  border-radius: 20px;
+}
+.reply-box{
+  position: relative;
+  left:2%;
+  overflow: hidden;
+  width:500px;
+  /* height: 200px; */
+}
+
+
+/* comments */
+.comment{
+  padding:10px;
+  color:white;
+  width:70%;
+  border-radius: 50px 0px 50px 0px;
+
+
+}
+.comment > h3{
+  color:rgb(54, 160, 12);
+  padding:10px 0px;
+}
+
+
+
+
+
+
+
+
+  /* Users */
+  #logo-upload{
+    display:none;
+  }
+
+  .user-form {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .user-form > table{
+    width:60%;
+  }
+  .user-form > table tr > td{
+    font-size: 16px;
+    padding:5px;
+  }
+  .user-form > table  tr > td > input{
+    padding:10px 16px;
+    width:100%;
+    border:1px solid grey;
+
+  }
+  .upload-btn {
+    background-color:rgba(4, 36, 58, 0.842);
+    color:rgb(255, 255, 255);
+    padding:10px 16px;
+    cursor: pointer;
+  }
+  .upload-btn:hover {
+    border:1px solid rgb(1, 37, 37);
+    background-color:rgb(1, 18, 24);
+  }
+
+  .update-users {
+    padding:10px 16px;
+    font-size: 16px;
+    border:1px solid rgb(1, 35, 80);
+  }
+  .update-users:hover{
+    background-color:teal;
+    color:white;
+    border:none;
+    cursor: pointer;
+  }
+
+  /* change admin password style */
+  .pwd-div{
+    position:fixed;
+    z-index: 3;
+    background-color:rgba(255, 255, 255, 0.705);
+    display: block;
+    width:100%;
+    height: 100%;
+    top:0;
+    left:0;
+  }
+  .changePwd{
+      width: 500px;
+      margin:auto;
+      background-color: rgb(105, 105, 105);
+      padding:20px;
+      margin-top: 10%;
+  }
+  .changePwd > a{
+    text-decoration: none;
+    color:white;
+    font-size:22px;
+  }
+  .changePwd > input{
+    padding:10px 14px;
+    border:none;
+    width:60%;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    border-radius: 3px;
+  }
+  .changePwd > button{
+    padding:10px 14px;
+    border:none;
+    background-color:rgb(163, 172, 172);
+    margin-left: 20px;
+    font-size:15px;
+    color:rgb(70, 65, 65);
+    cursor: pointer;
+  }
+  .changePwd > button:hover{
+    background-color: rgb(70, 75, 75);
+    color:white;
+    border-radius: 10px;
+  }
